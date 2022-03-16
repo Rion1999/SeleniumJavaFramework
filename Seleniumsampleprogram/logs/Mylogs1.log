@@ -1,0 +1,4 @@
+[INFO ] 2022-03-14 09:15:13.318 [main] Log4jDemo  - info
+[ERROR] 2022-03-14 09:15:13.325 [main] Log4jDemo  - error
+[WARN ] 2022-03-14 09:15:13.327 [main] Log4jDemo  - warn
+[FATAL] 2022-03-14 09:15:13.327 [main] Log4jDemo  - fatal

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-15T15:40:41 IST" name="Default suite" finished-at="2022-03-15T15:41:00 IST" duration-ms="19282">
+    <groups>
+    </groups>
+    <test started-at="2022-03-15T15:40:41 IST" name="Default test" finished-at="2022-03-15T15:41:00 IST" duration-ms="19282">
+      <class name="com.example.Seleniumtest2">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.example.Seleniumtest2@1fa268de]" started-at="2022-03-15T15:40:41 IST" name="setUp" finished-at="2022-03-15T15:40:45 IST" duration-ms="3646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSeleniumtest2()[pri:0, instance:com.example.Seleniumtest2@1fa268de]" started-at="2022-03-15T15:40:45 IST" name="testSeleniumtest2" finished-at="2022-03-15T15:41:00 IST" duration-ms="15264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSeleniumtest2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.example.Seleniumtest2@1fa268de]" started-at="2022-03-15T15:41:00 IST" name="tearDown" finished-at="2022-03-15T15:41:00 IST" duration-ms="321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.example.Seleniumtest2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
